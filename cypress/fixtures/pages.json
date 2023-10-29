@@ -1,0 +1,18 @@
+{
+    "stepper": "layout/stepper",
+    "accordion": "layout/acordion",
+    "forms": "forms/layouts",
+    "datepicker": "forms/datepicker",
+    "dialog": "modal-overlays/dialog",
+    "window": "modal-overlays/window",
+    "popover": "modal-overlays/popover",
+    "toastr": "modal-overlays/toastr",
+    "tooltip": "modal-overlays/tooltip",
+    "calendar": "extra-components/calendar",
+    "smart-table": "tables/smart-table",
+    "tree-grid": "tables/tree-grid",
+    "login": "auth/login",
+    "register": "auth/register",
+    "request-password": "auth/request-password",
+    "reset-password": "auth/reset-password"
+}
