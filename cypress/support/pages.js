@@ -1,0 +1,18 @@
+export const PAGES = {
+    Stepper: "pages/layout/stepper",
+    Accordion: "pages/layout/acordion",
+    Forms: "pages/forms/layouts",
+    Datepicker: "pages/forms/datepicker",
+    Dialog: "pages/modal-overlays/dialog",
+    Window: "pages/modal-overlays/window",
+    Popover: "pages/modal-overlays/popover",
+    Toastr: "pages/modal-overlays/toastr",
+    Tooltip: "pages/modal-overlays/tooltip",
+    Calendar: "pages/extra-components/calendar",
+    Smart_Table: "pages/tables/smart-table",
+    Tree_Greed: "pages/tables/tree-grid",
+    Login_Form: "auth/login",
+    Register_Form: "auth/register",
+    Request_Pwd_Form: "auth/request-password",
+    Reset_Pwd_Form: "auth/reset-password",
+}
