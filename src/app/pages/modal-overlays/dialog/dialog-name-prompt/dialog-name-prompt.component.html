@@ -4,7 +4,7 @@
     <input #name nbInput placeholder="Name">
   </nb-card-body>
   <nb-card-footer>
-    <button id= "cy-btn-cancel" class="cancel" nbButton status="danger" (click)="cancel()">Cancel</button>
-    <button id= "cy-btn-submit" nbButton status="success" (click)="submit(name.value)">Submit</button>
+    <button data-testid="cy-btn-cancel" class="cancel" nbButton status="danger" (click)="cancel()">Cancel</button>
+    <button data-testid="cy-btn-submit" nbButton status="success" (click)="submit(name.value)">Submit</button>
   </nb-card-footer>
 </nb-card>
